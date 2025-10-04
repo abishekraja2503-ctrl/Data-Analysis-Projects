@@ -9,7 +9,7 @@ Each project demonstrates my ability to transform raw data into actionable insig
 ## 🧠 About Me
 I’m **Abishekan G**, a detail-oriented and motivated **Data Analyst** from Thoothukudi, Tamil Nadu.  
 I enjoy uncovering patterns in data and translating them into clear, actionable recommendations.  
-I am seeking a **Data Analyst Intern** role at **FlatZ** to apply my skills in real-world projects while continuing to grow professionally.
+
 
 ---
 
